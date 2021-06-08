@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <div className="title">
-        <h1>Bird Classifier Kaggle Competition</h1>
+        <h1>Bird Classification Kaggle Competition</h1>
         <p>By Tyler Wong</p>
       </div>
       <div className="section">
