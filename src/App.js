@@ -14,6 +14,7 @@ function App() {
       <div className="section">
         <h2>Introduction</h2>
         <p>Source code is available on Google Colab <a href="https://colab.research.google.com/drive/11C7hILEP2-ia_eoXcKmwOan7IvMD4U7t?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>.</p>
+        <p>My video of the final project can be seen <a href="https://drive.google.com/file/d/1EoQE1gCClyywnHsVrWWA0YusxWiwEVk9/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>.</p>
         <h3>The Problem</h3>
         <p>
           The problem I am trying to solve is how to accurately and efficiently identify hundreds of bird species based on pictures.
